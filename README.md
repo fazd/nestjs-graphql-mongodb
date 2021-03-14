@@ -26,6 +26,16 @@
 
 [Nest](https://github.com/nestjs/nest) framework TypeScript starter repository.
 
+
+Example of graphql with nestjs created with the guide from [NestJS Zero to Hero](https://www.udemy.com/course/nestjs-zero-to-hero).
+
+
+## Features
+
+- Lesson (create, getall, getbyid assignLessonToStudents)
+- Student (create getall, getbyid)
+
+
 ## Installation
 
 ```bash
